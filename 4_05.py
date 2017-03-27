@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print("You entered ", name, "*")
+name =name.lstrip()
+name = name.lower()
+print("Without Leading Spaces in Lowercase:", name,"*")

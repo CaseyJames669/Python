@@ -1,0 +1,114 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Arial;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Dingbats;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Symbol;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s1\fi-431\li720\sbasedon29\snext29 Contents 1;}
+{\s2\fi-431\li1440\sbasedon29\snext29 Contents 2;}
+{\s3\fi-431\li2160\sbasedon29\snext29 Contents 3;}
+{\s8\fi-431\li720\sbasedon29 Lower Roman List;}
+{\s5\tx431\sbasedon25\snext29 Numbered Heading 1;}
+{\s6\tx431\sbasedon26\snext29 Numbered Heading 2;}
+{\s7\fi-431\li720 Square List;}
+{\s12\sbasedon29 Endnote Text;}
+{\s22\fi-431\li720 Bullet List;}
+{\s4\fi-431\li2880\sbasedon29\snext29 Contents 4;}
+{\s10\fi-431\li720 Diamond List;}
+{\s11\fi-431\li720 Numbered List;}
+{\*\cs13\fs20\super Endnote Reference;}
+{\s14\fi-431\li720 Triangle List;}
+{\s15\tx431\sbasedon27\snext29 Numbered Heading 3;}
+{\s16\fi-431\li720 Dashed List;}
+{\s17\fi-431\li720\sbasedon11 Upper Roman List;}
+{\s18\sb440\sa60\f1\fs24\b\sbasedon29\snext29 Heading 4;}
+{\s19\fi-431\li720 Heart List;}
+{\s35\fi-431\li720 Box List;}
+{\s21\fi-431\li720\sbasedon11 Upper Case List;}
+{\s9\fi-288\li288\fs20\sbasedon29 Footnote;}
+{\s23\fi-431\li720 Hand List;}
+{\s24\fs20\sbasedon29 Footnote Text;}
+{\s25\sb440\sa60\f1\fs34\b\sbasedon29\snext29 Heading 1;}
+{\s26\sb440\sa60\f1\fs28\b\sbasedon29\snext29 Heading 2;}
+{\s20\qc\sb240\sa120\f1\fs32\b\sbasedon29\snext29 Contents Header;}
+{\s28\fi-431\li720 Tick List;}
+{\s27\sb440\sa60\f1\fs24\b\sbasedon29\snext29 Heading 3;}
+{\s30\fi-431\li720\sbasedon11 Lower Case List;}
+{\s31\li1440\ri1440\sa120\sbasedon29 Block Text;}
+{\s37\f4\sbasedon29 Plain Text;}
+{\s33\tx1584\sbasedon5\snext29 Section Heading;}
+{\s34\fi-431\li720 Implies List;}
+{\s29\f0\fs24 Normal;}
+{\s36\fi-431\li720 Star List;}
+{\*\cs32\fs20\super Footnote Reference;}
+{\s38\tx1584\sbasedon5\snext29 Chapter Heading;}
+{\s39\fi-288\li288\sbasedon29 Endnote;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1{\author Casey Bladow}}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Describe:}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Smaug}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Python IDE(Integrated Development Environment) - idle, Eclipse, V idle, PyScripter}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab At shell, compile and run python - $python ______.py produces a .pyc file}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Hierarchy - statements, functions, classes (data members, methods), modules}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch pythons standard library}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab >>help(___)}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab start, python32, module docs}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab folder where python, doc, ____}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab math, random, string, time, turtle}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab import}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab from ____ import ____}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch variables, keywords, operations}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab types: boolean}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab operators: arithmetic: + - / * // ** %}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab      Relational: == != > <}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab      Logical: not and or}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab      Assignment: = += -=}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab precedence}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab convert formulas}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab mutable: things that can be changed. elements of a list, integers}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab immutable: things that can not be changed}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch input/output}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab writing to standard output: print}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab format (   )}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab obtain info from the user (keyboard)}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab input}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab redirection}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab $_____ < mytext.txt}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab $_____ > myoutput.txt}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Linux}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab basic commands}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab $pwd ls cd . .. more less rm}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab compile from shell   $python ____.py}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Functions}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab Define:}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab formal parameter: on def line of function}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab actual parameter: when calling function, data given}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab default parameter p.189: when no formal parameter is given}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab *in the formal parameter is that is where you put the equal or default}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab positional parameter p.179-180 (keyword arguments) }{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab parameter passing}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab return statement }{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab call stack p. 175: the visualizer }{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab signature of a function}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab pre-conditions}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Lists}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab constructor mystudents=list() or mystudents=()}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab methods .append .sort .remove}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab manipulate data in lists}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Documentation}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab pre-cond, post-cond, purpose}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab pystrings}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab __author__ and \uc1\u8220\'93\uc1\u8221\'94\uc1\u8220\'93  \uc1\u8220\'93\uc1\u8221\'94\uc1\u8220\'93 (triple qoutes under every function with pre, post, and purpose)}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab conditions}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab creating you doc on a webpage}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab $pydoc -w _____}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch classes}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch control structures}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch convert numbers octo - dec ect.}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch scope}{\s29\f0\fs24\lang1033{\*\listtag0}\par}}

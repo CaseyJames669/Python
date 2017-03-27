@@ -1,0 +1,126 @@
+Python 3.2.3 (default, Sep 10 2012, 18:14:40) 
+[GCC 4.6.3] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 1
+Please enter the day of the month: (Ex: 1-31) 1
+Day of the week is Tuesday
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> print(isLeapYear)
+False
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Tuesday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Tuesday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Thursday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 
+Traceback (most recent call last):
+  File "/home/remote/bladowca/Python/Assignment3.py", line 10, in <module>
+    yr = eval(input("Please enter the year: (Ex: 2012) "))
+  File "<string>", line 0
+    
+   ^
+SyntaxError: unexpected EOF while parsing
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2013
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2013
+Please enter the month: (Ex: 1-12) 2
+Please enter the day of the month: (Ex: 1-31) 2
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2011
+Please enter the month: (Ex: 1-12) 6
+Please enter the day of the month: (Ex: 1-31) 4
+Day of the week is Saturday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2011
+Please enter the month: (Ex: 1-12) 6
+Please enter the day of the month: (Ex: 1-31) 6
+Day of the week is Monday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 10
+Please enter the day of the month: (Ex: 1-31) 3
+Day of the week is Wednesday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 11
+Please enter the day of the month: (Ex: 1-31) 1
+Day of the week is Thursday
+>>> ================================ RESTART ================================
+>>> 
+Please enter the year: (Ex: 2012) 2012
+Please enter the month: (Ex: 1-12) 1
+Please enter the day of the month: (Ex: 1-31) 1
+Day of the week is Sunday
+>>> 
+

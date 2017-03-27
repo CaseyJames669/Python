@@ -1,0 +1,54 @@
+import sys(?)
+numScores = ask user to enter the number of scores 
+
+if numScores <= 0:
+	sys.exit()
+sum = 0
+ct = 0
+highscore = 0
+lowscore = 100
+
+while ct in range(0,numScores)
+ 
+	name = ask user for name
+	score = ask user for score
+	
+	if score < 0 or score > 100:
+		error msg
+		sys.exit()
+
+	sum += score
+
+	if ct == 0:
+		lowscore = score
+		lowname = name
+		highscore = score
+		highname = name
+	
+
+	# see if score > highscore
+	if score > highscore:
+		highscore = score
+		highname = name
+
+	# see if score < lowscore
+	if score < lowscore
+		lowscore = score
+		lowname = name
+	
+	ct += 1
+
+print the title
+print column headings
+print highscore highname
+print lowscore lowname
+print numScores
+average = sum / numScores
+print average 
+
+
+TESTING
+Try negative numbers everywhere...
+	should always error back
+
+
