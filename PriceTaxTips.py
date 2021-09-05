@@ -3,7 +3,7 @@ mealPrice, salesTax, gratuity = eval(input(
     "Enter the Meal Cost, Sales Tax Percentage, and Gratuity Percentage you would like to add: "))
 
 #calculations
-subTotal = (salesTax/100)*mealPrice
+subTotal = (1+(salesTax/100))*mealPrice
 
 gratuityAmount = (gratuity/100)*subTotal
 
