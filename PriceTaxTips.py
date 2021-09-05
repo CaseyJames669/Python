@@ -7,10 +7,10 @@ subTotal = (salesTax/100)*mealPrice
 
 gratuityAmount = (gratuity/100)*subTotal
 
-total = subTotal+gratuity
+total = subTotal+gratuityAmount
 
 #This can also be written in one line...
-# total = mealPrice+(((salesTax/100)*mealPrice)+((grat/100)*mealPrice))
+# total = mealPrice+(((salesTax/100)*mealPrice)+((gratuity/100)*mealPrice))
 
 
 #Display it all
